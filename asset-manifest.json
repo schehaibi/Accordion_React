@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/name_repository/static/css/main.d23bf813.chunk.css",
-    "main.js": "/name_repository/static/js/main.dc8bdf06.chunk.js",
-    "main.js.map": "/name_repository/static/js/main.dc8bdf06.chunk.js.map",
-    "runtime-main.js": "/name_repository/static/js/runtime-main.2e0a7b77.js",
-    "runtime-main.js.map": "/name_repository/static/js/runtime-main.2e0a7b77.js.map",
-    "static/js/2.3af74b98.chunk.js": "/name_repository/static/js/2.3af74b98.chunk.js",
-    "static/js/2.3af74b98.chunk.js.map": "/name_repository/static/js/2.3af74b98.chunk.js.map",
-    "index.html": "/name_repository/index.html",
-    "precache-manifest.6f686442892fbd03d13145c1fb0301f0.js": "/name_repository/precache-manifest.6f686442892fbd03d13145c1fb0301f0.js",
-    "service-worker.js": "/name_repository/service-worker.js",
-    "static/css/main.d23bf813.chunk.css.map": "/name_repository/static/css/main.d23bf813.chunk.css.map",
-    "static/js/2.3af74b98.chunk.js.LICENSE.txt": "/name_repository/static/js/2.3af74b98.chunk.js.LICENSE.txt"
+    "main.css": "/Accordion_React/static/css/main.d23bf813.chunk.css",
+    "main.js": "/Accordion_React/static/js/main.dc8bdf06.chunk.js",
+    "main.js.map": "/Accordion_React/static/js/main.dc8bdf06.chunk.js.map",
+    "runtime-main.js": "/Accordion_React/static/js/runtime-main.a5461449.js",
+    "runtime-main.js.map": "/Accordion_React/static/js/runtime-main.a5461449.js.map",
+    "static/js/2.3af74b98.chunk.js": "/Accordion_React/static/js/2.3af74b98.chunk.js",
+    "static/js/2.3af74b98.chunk.js.map": "/Accordion_React/static/js/2.3af74b98.chunk.js.map",
+    "index.html": "/Accordion_React/index.html",
+    "precache-manifest.ba3aea237fde3f35f9a3bcd8843ef07c.js": "/Accordion_React/precache-manifest.ba3aea237fde3f35f9a3bcd8843ef07c.js",
+    "service-worker.js": "/Accordion_React/service-worker.js",
+    "static/css/main.d23bf813.chunk.css.map": "/Accordion_React/static/css/main.d23bf813.chunk.css.map",
+    "static/js/2.3af74b98.chunk.js.LICENSE.txt": "/Accordion_React/static/js/2.3af74b98.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2e0a7b77.js",
+    "static/js/runtime-main.a5461449.js",
     "static/js/2.3af74b98.chunk.js",
     "static/css/main.d23bf813.chunk.css",
     "static/js/main.dc8bdf06.chunk.js"
